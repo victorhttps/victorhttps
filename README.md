@@ -3,6 +3,7 @@
 
 
 - 🔭 Atualmente trabalhando com RPA em Java
+- 🖥 Cursando Sistemas de Informação - Instituição Toledo de Ensino
 - 📫 Email: dev.victorhugo@gmail.com
 
  <div>
